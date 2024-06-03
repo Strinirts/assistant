@@ -1,0 +1,1 @@
+insert into remainder (id, user_id, what, happens_on, place) values (2, 101, 'Go to gym', '2024-06-02', 'Town');
